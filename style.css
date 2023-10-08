@@ -84,3 +84,6 @@ tr td{
     margin-top: 25px;
     text-align: center  ;
 }
+.sign{
+    cursor: pointer;
+}
