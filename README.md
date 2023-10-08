@@ -3,7 +3,7 @@ Hosted Link: https://kaverichougule.github.io/WeeklyTest3_AddToCart/
 # when cart is empty
 ![image](https://github.com/kaverichougule/WeeklyTest3_AddToCart/assets/101037685/61ec17c1-899e-422f-932a-b640076bb409)
 
-# when you ad items in cart
+# when you add items in cart
 ![image](https://github.com/kaverichougule/WeeklyTest3_AddToCart/assets/101037685/b8a69d3e-0e34-46a8-9325-5d7e76298d2a)
 
 # removing items from cart
